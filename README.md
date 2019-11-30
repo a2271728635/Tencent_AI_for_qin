@@ -1,3 +1,3 @@
-# hello_world
-test
-this is a t
+# 运行说明
+网页闲聊机器人，没有做手机适应，只适用于PC，打开index.html
+能够看到页面闲聊了
